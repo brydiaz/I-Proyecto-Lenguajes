@@ -12,12 +12,13 @@ typedef struct nodo{
 	int nivel;
 } Nodo;
 
-void ImprimirTablero(char[N][N]);
 
 int posibilidades(char[N][N]);
 int comprobarVictoriaPC(char partida[N][N]);
 int comprobarVictoriaJugador(char partida[N][N]);
-void meterEnTablero(char[N][N], int, char);
+
+
+
 double Heuristica(char[N][N]);
 
 void CopiaTablero(char [N][N],char [N][N]);
@@ -29,3 +30,10 @@ void BorraArbol(Nodo *);
 void ValorarHojas(Nodo *);
 void MiniMax(Nodo *);
 int juegaPC(char [N][N],int );
+
+void printTable(char table[7][7]);
+void mainGame();
+void asciiArt();
+void makeMove(char table[7][7], int move, char token);
+int checkVictory(char table[7][7], char token);
+void gameOn();
