@@ -14,7 +14,12 @@ El trabajo aquí presente busca representar dicho juego el cual será jugado en 
 
 ## :video_game: Pasos necesarios para la ejecución del programa en la consola interactiva
 
-Aquí va el paso a paso de cómo empezar a jugar
+1. Se puede seleccionar si se desea salir ver desarrolladores, salir o bien jugar
+2. Se le pide al usuario que ingrese un valor del 0 al 7
+3. Se muestra el estado del tablero
+4. La maquina juega
+5. Se muestra el estado del tablero
+6. Del paso 2 al 5 se repite hasta que gane uno de los dos o empate
 
 <br><br><br><br>
 
