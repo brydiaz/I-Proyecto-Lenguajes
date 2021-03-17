@@ -605,7 +605,7 @@ void juego(){
     }
 
     while(ganador == 0){
-		system("cls");
+		system("clear");
 		arteAscii(4);
         imprimirtablero(tablero);
 		
@@ -652,7 +652,7 @@ void juego(){
 
 void juegoPrincipal(){
 	printf("x\n");
-	system("cls");
+	system("clear");
     arteAscii(1);
     int op; 
     printf("\n");
@@ -664,7 +664,7 @@ void juegoPrincipal(){
         juego();
 
     }else if(op == 2){
-        system("cls");
+        system("clear");
         arteAscii(3);
 		printf("\n");
     	printf("VOLVER A MENÚ: 1. Sí 2. No\n");
