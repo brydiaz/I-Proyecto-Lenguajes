@@ -34,4 +34,4 @@ El trabajo aquí presente busca representar dicho juego el cual será jugado en 
 **Bryan Andrey Díaz Barrientos:** _(Aquí va el link de YouTube)_
 <br> 
 
-**Josué Gerardo Gutiérrez Mora:** _(Aquí va el link de YouTube)_
+**Josué Gerardo Gutiérrez Mora:** _https://www.youtube.com/watch?v=PEL7RAxfv1M_
