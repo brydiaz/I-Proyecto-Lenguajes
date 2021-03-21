@@ -31,7 +31,7 @@ El trabajo aquí presente busca representar dicho juego el cual será jugado en 
 **Jose Alexander Artavia Quesada:** _(Aquí va el link de YouTube)_
 <br>
 
-**Bryan Andrey Díaz Barrientos:** _(Aquí va el link de YouTube)_
+**Bryan Andrey Díaz Barrientos:** _https://youtu.be/OgxuZAY7kDY_
 <br> 
 
 **Josué Gerardo Gutiérrez Mora:** _https://www.youtube.com/watch?v=PEL7RAxfv1M_
