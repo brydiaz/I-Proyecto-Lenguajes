@@ -28,7 +28,7 @@ El trabajo aquí presente busca representar dicho juego el cual será jugado en 
 
 
 ## :video_camera: Links a los vídeos explicativos de los integrantes del grupo
-**Jose Alexander Artavia Quesada:** _(Aquí va el link de YouTube)_
+**Jose Alexander Artavia Quesada:** _(https://www.youtube.com/watch?v=BjW6ZTuu-KI)_
 <br>
 
 **Bryan Andrey Díaz Barrientos:** _https://youtu.be/OgxuZAY7kDY_
